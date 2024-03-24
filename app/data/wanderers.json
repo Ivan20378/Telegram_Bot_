@@ -1,0 +1,46 @@
+{
+    "wanderers": [
+        {
+            "title": "Kyiv-Pechersk reserve",
+            "desc": "The National Kyiv-Pechersk Historical and Cultural Reserve is the largest museum complex in Ukraine, where 144 buildings are concentrated, 122 of which are monuments of history and culture. Among them are 2 unique underground complexes, temples, architectural monuments of the XI-XIX centuries, exhibition premis.",
+            "url": "Ukraine, Kyiv",
+            "photo": "https://ua.igotoworld.com/frontend/webcontent/images/tours/1942339_800x600_1Kijevo-Pecherska-Lavra.jpg"
+        },
+        {
+            "title": "Reserve <<Pereyaslav>>",
+            "desc": "The national historical and ethnographic reserve <<Pereyaslav>> is located 85 km from Kyiv. Pereyaslav-Khmelnytskyi is the pearl of Kyivan Rus, a real city-museum. In the outskirts of the city there is another (and significant) part of the museum-reserve, the Museum of Folk Architecture and Life of the Middle Dnieper Region.",
+            "url": "Ukraine, Pereyaslav-Khmelnytskyi",
+            "photo": "https://ua.igotoworld.com/frontend/webcontent/images/tours/1942340_800x600_2pereyaslav.jpg"
+        },
+        {
+            "title": "Kebir Jami Mosque",
+            "desc": "The Kebir-Jami Mosque is located in Simferopol, Crimea. Kebir-Jami mosque is a prominent architectural monument in Simferopol and the oldest building in the city.",
+            "url": "Ukraine, Simferopol",
+            "photo": "https://ua.igotoworld.com/frontend/webcontent/images/tours/1942341_800x600_3mechet-kebir-dzhami-simferopol.jpg"
+        },
+        {
+            "title": "Statue of Liberty",
+            "desc": "This strict metal lady with a burning torch and a tablet is a symbol not only of New York, but of all of America. The 46-meter (93-meter including the pedestal) Statue of Liberty stands proudly on the island of the same name near Manhattan and is a gift presented in 1886 by the United States on behalf of the French people, who a century earlier supported the Americans in the struggle for independence.",
+            "url": "USA, New York",
+            "photo": "http://mklub.com.ua/wp-content/uploads/2021/05/001-4.jpg"
+        },
+        {
+            "title": "Walt Disney World",
+            "desc": "The largest and most visited entertainment center in the world, which covers an area of more than 100 square kilometers and consists of four theme parks: Magic Kingdom, Epcot, Disney's Hollywood Studios and Disney's Animal Kingdom.",
+            "url": "USA, Orlando",
+            "photo": "http://mklub.com.ua/wp-content/uploads/2021/08/003.jpg"
+        },
+        {
+            "title": "The Louvre Museum",
+            "desc": "The Louvre Museum is one of the largest museums in the world, located on the right bank of the Seine in the first arrondissement of Paris. The museum was opened in 1793 under the name of the Central Museum of Arts of the Republic.",
+            "url": "France, Paris",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/300px-Louvre_Museum_Wikimedia_Commons.jpg"
+        },
+        {
+            "title": "Eiffel Tower",
+            "desc": "The Eiffel Tower is an architectural monument of Paris, located on the Champ de Mars, a symbol of modern France. The tower is named after its designer, Gustave Eiffel. Eiffel himself called it the <<300-meter tower>>, another popular name is the <<Iron Lady>>.",
+            "url": "France, Paris",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eiffel_Tower_from_north_Avenue_de_New_York%2C_Aug_2010.jpg/250px-Eiffel_Tower_from_north_Avenue_de_New_York%2C_Aug_2010.jpg"
+        }
+    ]
+}
